@@ -4,7 +4,7 @@
 
 ### About me:
 
-:computer: I am a junior CS student on the hunt for internships in the following categories: data engineering, mobile iOS development, software development, and software engineer.
+:computer: I am a junior CS student on the hunt for internships in the following categories: data engineering, mobile iOS development, software development, and software engineering.
 
 
 Feel free to reach me at esong28@outlook.com
