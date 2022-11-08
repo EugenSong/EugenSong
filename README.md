@@ -7,4 +7,4 @@
 :computer: I am a junior CS student on the hunt for internships in the following categories: data engineering, mobile iOS development, software development, and software engineering.
 
 
-Feel free to reach me at esong28@outlook.com
+Feel free to reach me at esong28@outlook.com or at https://www.linkedin.com/in/eugenessong/
