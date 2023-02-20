@@ -4,8 +4,8 @@
 
 ### About me:
 
-:computer: Incoming Highmark Health ETDP SE Intern. 
-- Interests in mobile development, software development
+:computer: Incoming Highmark Health ETDP Software Engineering Intern. 
+:trident: Interests in mobile development, software development
 
 
 Feel free to reach me at esong28@outlook.com or at https://www.linkedin.com/in/eugenessong/
