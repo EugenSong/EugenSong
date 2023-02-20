@@ -4,7 +4,8 @@
 
 ### About me:
 
-:computer: I am a junior CS student on the hunt for internships in the following categories: mobile development, software development, and software engineering.
+:computer: Incoming Highmark Health ETDP SE Intern. 
+- Interests in mobile development, software development
 
 
 Feel free to reach me at esong28@outlook.com or at https://www.linkedin.com/in/eugenessong/
