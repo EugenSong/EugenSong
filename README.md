@@ -4,7 +4,7 @@
 
 ### About me:
 
-:trident: Interests in mobile development, software development, quality assurance
+Interest in mobile development, software development, quality assurance
 
 
 Feel free to reach me at esong28@outlook.com
