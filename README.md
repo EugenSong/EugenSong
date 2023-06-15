@@ -4,8 +4,6 @@
 
 ### About me:
 
-:computer: Incoming Highmark Health ETDP Software Engineering Intern
-
 :trident: Interests in mobile development, software development, quality assurance
 
 
