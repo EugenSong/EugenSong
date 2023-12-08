@@ -4,7 +4,7 @@
 
 ### About me:
 
-Interest in mobile app development and backend development
+Interest in backend, security/software and mobile app development.
 
 
 Feel free to reach me at esong28@outlook.com
